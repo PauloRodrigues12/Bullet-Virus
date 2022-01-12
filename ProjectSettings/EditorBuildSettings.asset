@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 1e0d3f659aa1978448f5f346f17b3a50
+  - enabled: 1
+    path: Assets/Scenes/ZombieMap.unity
+    guid: 8c27e48c166f6f7498cbcedf6513d6de
+  - enabled: 1
+    path: Assets/Scenes/DeathMenu.unity
+    guid: 59a3d1211137e3c4bbfc1cb8de7cb65b
+  m_configObjects: {}
